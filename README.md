@@ -4,10 +4,10 @@
     <td>
 
 <!-- 💫 About Me Content -->
-<h2>Hey there 👋! I'm Pari,</h2>
+<h2>Hey there! I'm Pari,</h2>
 <ul>
-  <li>🔭 I’m currently working on Conversational Graphical Search</li>
-  <li>🌱🐍 Currently Learning:
+  <li>🔭 I’m currently working on AJDMS</li>
+  <li>Currently Learning:
     <ul>
       <li>Talking to Python like it’s my second language</li>
       <li>Teaching machines to learn (and not crash)</li>
@@ -15,8 +15,8 @@
       <li>Turning data into something slightly smarter than me</li>
     </ul>
   </li>
-  <li>💬 Ask me about Coffee</li>
-  <li>⚡ I don’t trust code that works the first time. It’s probably hiding something. 😅</li>
+  <li>Ask me about Coffee</li>
+  <li>I don’t trust code that works the first time. It’s probably hiding something. 😅</li>
 </ul>
 
   </td>
